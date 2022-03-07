@@ -17,7 +17,7 @@
 Hi, i'm **Zolboo Oktyabri**, I've been coding for 3 years and experienced with web & mobile development. My first language was c++ for competitive programming. After a few competitions I started to learn about web development.
 Love to solve coding problems as a hobby.
 
-  <img align="right" alt="GIF" src="https://github.com/soulforger1/soulforger1/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/soulforger1/soulforger1/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
 
